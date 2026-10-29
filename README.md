@@ -1,6 +1,6 @@
 ## 👋 Hola, soy **Ing. Facundo Díaz Domínguez**
 
-Ingeniero en Sistemas de Información. Desarrollo aplicaciones web completas con foco en Laravel, tengo experiencia con **Odoo** (ERP) y me formo continuamente en backend (Java / Spring Boot) y sistemas.
+Ingeniero en Sistemas de Información. Desarrollo aplicaciones web completas con foco en Laravel, tengo experiencia con **Odoo** (ERP) y me formo continuamente en backend y sistemas.
 
 ### 🚀 Proyectos en producción
 
