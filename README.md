@@ -18,6 +18,10 @@ portal público (fixture, posiciones, goleadores, instancias finales) y panel de
 
 Desarrollo y personalización de **Odoo** como parte de mi repertorio profesional.
 
+### 👨‍💻 Sobre mis repositorios
+
+En el repositorio encontrará proyectos que hice a lo largo de mi formación en la facultad y otros personales.
+
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-facundo--diaz--dominguez-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-diaz-dominguez-0a826b230)
